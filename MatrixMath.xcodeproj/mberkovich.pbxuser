@@ -2,7 +2,7 @@
 {
 	1D3623240D0F684500981E51 /* MatrixMathAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 842}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 492}";
 		};
@@ -29,9 +29,9 @@
 	};
 	28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1651, 1690}}";
-			sepNavSelRange = "{1990, 174}";
-			sepNavVisRange = "{533, 2206}";
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1664}}";
+			sepNavSelRange = "{1917, 0}";
+			sepNavVisRange = "{229, 2184}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -78,6 +78,13 @@
 			EF82664A132EB9DD00A0764B /* PBXTextBookmark */ = EF82664A132EB9DD00A0764B /* PBXTextBookmark */;
 			EF82664B132EB9DD00A0764B /* PBXTextBookmark */ = EF82664B132EB9DD00A0764B /* PBXTextBookmark */;
 			EF82664C132EB9DD00A0764B /* PBXTextBookmark */ = EF82664C132EB9DD00A0764B /* PBXTextBookmark */;
+			EF826652132EBB3B00A0764B /* PBXTextBookmark */ = EF826652132EBB3B00A0764B /* PBXTextBookmark */;
+			EF826653132EBB3B00A0764B /* PBXTextBookmark */ = EF826653132EBB3B00A0764B /* PBXTextBookmark */;
+			EF826654132EBB3B00A0764B /* PBXTextBookmark */ = EF826654132EBB3B00A0764B /* PBXTextBookmark */;
+			EF826655132EBB3B00A0764B /* PBXTextBookmark */ = EF826655132EBB3B00A0764B /* PBXTextBookmark */;
+			EF826656132EBB3B00A0764B /* PBXTextBookmark */ = EF826656132EBB3B00A0764B /* PBXTextBookmark */;
+			EF826657132EBBDA00A0764B /* PBXTextBookmark */ = EF826657132EBBDA00A0764B /* PBXTextBookmark */;
+			EF82665E132EBC0000A0764B /* PBXTextBookmark */ = EF82665E132EBC0000A0764B /* PBXTextBookmark */;
 			EFFACECE132ABF560096CB11 = EFFACECE132ABF560096CB11 /* PlistBookmark */;
 			EFFACECF132ABF560096CB11 = EFFACECF132ABF560096CB11 /* PBXTextBookmark */;
 			EFFACED0132ABF560096CB11 = EFFACED0132ABF560096CB11 /* PBXTextBookmark */;
@@ -136,7 +143,7 @@
 	};
 	EF724A9C1326FCE10018DF45 /* Point3D.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 842}}";
 			sepNavSelRange = "{347, 62}";
 			sepNavVisRange = "{0, 415}";
 		};
@@ -200,10 +207,80 @@
 		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
 		name = "MatrixMathViewController.m: 61";
 		rLen = 174;
-		rLoc = 1990;
+		rLoc = 1917;
 		rType = 0;
 		vrLen = 2206;
 		vrLoc = 533;
+	};
+	EF826652132EBB3B00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9C1326FCE10018DF45 /* Point3D.h */;
+		name = "Point3D.h: 23";
+		rLen = 62;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	EF826653132EBB3B00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9D1326FCE10018DF45 /* Point3D.m */;
+		name = "Point3D.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	EF826654132EBB3B00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MatrixMathAppDelegate.h */;
+		name = "MatrixMathAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	EF826655132EBB3B00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 61";
+		rLen = 174;
+		rLoc = 1917;
+		rType = 0;
+		vrLen = 2206;
+		vrLoc = 533;
+	};
+	EF826656132EBB3B00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 58";
+		rLen = 29;
+		rLoc = 1887;
+		rType = 0;
+		vrLen = 1807;
+		vrLoc = 1629;
+	};
+	EF826657132EBBDA00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 33";
+		rLen = 0;
+		rLoc = 1162;
+		rType = 0;
+		vrLen = 2164;
+		vrLoc = 229;
+	};
+	EF82665E132EBC0000A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 59";
+		rLen = 0;
+		rLoc = 1917;
+		rType = 0;
+		vrLen = 2184;
+		vrLoc = 229;
 	};
 	EFFACECE132ABF560096CB11 /* PlistBookmark */ = {
 		isa = PlistBookmark;

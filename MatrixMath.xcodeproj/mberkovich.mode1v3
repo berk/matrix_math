@@ -326,17 +326,17 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>EF82664C132EB9DD00A0764B</string>
+										<string>EF82665E132EBC0000A0764B</string>
 										<key>history</key>
 										<array>
 											<string>EF724B1513270B6F0018DF45</string>
 											<string>EFFACECE132ABF560096CB11</string>
-											<string>EFFACECF132ABF560096CB11</string>
 											<string>EFFACED1132ABF560096CB11</string>
 											<string>EFFACED2132ABF560096CB11</string>
-											<string>EFFACED3132ABF560096CB11</string>
-											<string>EF82664A132EB9DD00A0764B</string>
-											<string>EF82664B132EB9DD00A0764B</string>
+											<string>EF826652132EBB3B00A0764B</string>
+											<string>EF826653132EBB3B00A0764B</string>
+											<string>EF826654132EBB3B00A0764B</string>
+											<string>EF826655132EBB3B00A0764B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -534,8 +534,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>EF724B1F13270B6F0018DF45</string>
 		<string>/Users/mberkovich/projects/iphone/MatrixMath/MatrixMath.xcodeproj</string>
+		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 115 1920 1063 0 0 1920 1178 </string>
@@ -659,8 +661,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 198}}</string>
-											<string>{{316, 0}, {378, 198}}</string>
+											<string>{{0, 0}, {316, 201}}</string>
+											<string>{{316, 0}, {378, 201}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -675,8 +677,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 198}}</string>
-											<string>{{0, 198}, {694, 183}}</string>
+											<string>{{0, 0}, {694, 201}}</string>
+											<string>{{0, 201}, {694, 180}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -709,7 +711,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 198}}</string>
+									<string>{{316, 0}, {378, 201}}</string>
 									<key>RubberWindowFrame</key>
 									<string>21 733 694 422 0 0 1920 1178 </string>
 								</dict>
@@ -737,13 +739,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>EFFACED8132ABF560096CB11</string>
+				<string>EF82665F132EBC0000A0764B</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>EFFACED9132ABF560096CB11</string>
-				<string>EFFACEDA132ABF560096CB11</string>
-				<string>EFFACEDB132ABF560096CB11</string>
-				<string>EFFACEDC132ABF560096CB11</string>
-				<string>EFFACEDD132ABF560096CB11</string>
+				<string>EF826660132EBC0000A0764B</string>
+				<string>EF826661132EBC0000A0764B</string>
+				<string>EF826662132EBC0000A0764B</string>
+				<string>EF826663132EBC0000A0764B</string>
+				<string>EF826664132EBC0000A0764B</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -907,7 +909,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>EFFACEDE132ABF560096CB11</string>
+				<string>EF826665132EBC0000A0764B</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

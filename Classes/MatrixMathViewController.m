@@ -55,9 +55,7 @@
     c2 = (CGFloat) cos(yrt);
     s2 = (CGFloat) sin(yrt);
     
-    for (int i=0; i<[pts count]; i++) {
-        Point3D *p = (Point3D*)[pts objectAtIndex:i];
-        
+    for (Point3D *p in pts) {
         float x = p.x * c1 * c2 - p.y * s2 - p.z * c2 * s1;
         float y = p.x * c1 * s2 + p.y * c2 - p.z * s1 * s2;
         float z = p.x * s1      + 0        + p.z * c1;
