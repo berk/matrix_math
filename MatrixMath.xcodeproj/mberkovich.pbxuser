@@ -1,0 +1,279 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MatrixMathAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MatrixMathAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavSelRange = "{580, 0}";
+			sepNavVisRange = "{0, 681}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MatrixMath */ = {
+		activeExec = 0;
+		executables = (
+			EF724A931326FC810018DF45 /* MatrixMath */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MatrixMathViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavSelRange = "{253, 54}";
+			sepNavVisRange = "{0, 423}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 1690}}";
+			sepNavSelRange = "{1990, 174}";
+			sepNavVisRange = "{533, 2206}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EF724A931326FC810018DF45 /* MatrixMath */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MatrixMath */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MatrixMath */,
+		);
+		codeSenseManager = EF724A9A1326FCA10018DF45 /* Code sense */;
+		executables = (
+			EF724A931326FC810018DF45 /* MatrixMath */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321829325;
+			PBXWorkspaceStateSaveDate = 321829325;
+		};
+		perUserProjectItems = {
+			EF724B1513270B6F0018DF45 = EF724B1513270B6F0018DF45 /* PBXTextBookmark */;
+			EF724B1813270B6F0018DF45 = EF724B1813270B6F0018DF45 /* PBXTextBookmark */;
+			EF82664A132EB9DD00A0764B /* PBXTextBookmark */ = EF82664A132EB9DD00A0764B /* PBXTextBookmark */;
+			EF82664B132EB9DD00A0764B /* PBXTextBookmark */ = EF82664B132EB9DD00A0764B /* PBXTextBookmark */;
+			EF82664C132EB9DD00A0764B /* PBXTextBookmark */ = EF82664C132EB9DD00A0764B /* PBXTextBookmark */;
+			EFFACECE132ABF560096CB11 = EFFACECE132ABF560096CB11 /* PlistBookmark */;
+			EFFACECF132ABF560096CB11 = EFFACECF132ABF560096CB11 /* PBXTextBookmark */;
+			EFFACED0132ABF560096CB11 = EFFACED0132ABF560096CB11 /* PBXTextBookmark */;
+			EFFACED1132ABF560096CB11 = EFFACED1132ABF560096CB11 /* PBXTextBookmark */;
+			EFFACED2132ABF560096CB11 = EFFACED2132ABF560096CB11 /* PBXTextBookmark */;
+			EFFACED3132ABF560096CB11 = EFFACED3132ABF560096CB11 /* PBXTextBookmark */;
+			EFFACEE0132ABFCB0096CB11 = EFFACEE0132ABFCB0096CB11 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EF724A991326FCA10018DF45 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EF724A931326FC810018DF45 /* MatrixMath */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MatrixMath;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EF724A991326FCA10018DF45 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EF724A9A1326FCA10018DF45 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EF724A9C1326FCE10018DF45 /* Point3D.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 845}}";
+			sepNavSelRange = "{347, 62}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	EF724A9D1326FCE10018DF45 /* Point3D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 842}}";
+			sepNavSelRange = "{128, 0}";
+			sepNavVisRange = "{0, 380}";
+		};
+	};
+	EF724B1513270B6F0018DF45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724B1613270B6F0018DF45 /* UIResponder.h */;
+		name = "UIResponder.h: 31";
+		rLen = 66;
+		rLoc = 943;
+		rType = 0;
+		vrLen = 3004;
+		vrLoc = 0;
+	};
+	EF724B1613270B6F0018DF45 /* UIResponder.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIResponder.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h;
+		sourceTree = "<absolute>";
+	};
+	EF724B1813270B6F0018DF45 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9D1326FCE10018DF45 /* Point3D.m */;
+		name = "Point3D.m: 15";
+		rLen = 0;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	EF82664A132EB9DD00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9D1326FCE10018DF45 /* Point3D.m */;
+		name = "Point3D.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+	EF82664B132EB9DD00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 13";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 2192;
+		vrLoc = 0;
+	};
+	EF82664C132EB9DD00A0764B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 61";
+		rLen = 174;
+		rLoc = 1990;
+		rType = 0;
+		vrLen = 2206;
+		vrLoc = 533;
+	};
+	EFFACECE132ABF560096CB11 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MatrixMath-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/mberkovich/projects/iphone/MatrixMath/MatrixMath-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EFFACECF132ABF560096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MatrixMathAppDelegate.h */;
+		name = "MatrixMathAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	EFFACED0132ABF560096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MatrixMathViewController.m */;
+		name = "MatrixMathViewController.m: 13";
+		rLen = 0;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 2192;
+		vrLoc = 0;
+	};
+	EFFACED1132ABF560096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MatrixMathViewController.h */;
+		name = "MatrixMathViewController.h: 14";
+		rLen = 54;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 0;
+	};
+	EFFACED2132ABF560096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MatrixMathAppDelegate.m */;
+		name = "MatrixMathAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 580;
+		rType = 0;
+		vrLen = 681;
+		vrLoc = 0;
+	};
+	EFFACED3132ABF560096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9C1326FCE10018DF45 /* Point3D.h */;
+		name = "Point3D.h: 23";
+		rLen = 62;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 415;
+		vrLoc = 0;
+	};
+	EFFACEE0132ABFCB0096CB11 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EF724A9D1326FCE10018DF45 /* Point3D.m */;
+		name = "Point3D.m: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 380;
+		vrLoc = 0;
+	};
+}
