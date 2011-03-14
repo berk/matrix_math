@@ -6,7 +6,7 @@ This app is an example of how to produce a 3D effect using simple math.
 
 In the core of this example is the following function:
 
-- (void) transform:(NSArray *)pts yrt:(CGFloat)yrt zrt:(CGFloat)zrt {
+  - (void) transform:(NSArray *)pts yrt:(CGFloat)yrt zrt:(CGFloat)zrt {
     if (pts==nil) return;
     
     CGFloat c1, s1, c2, s2;
@@ -25,7 +25,7 @@ In the core of this example is the following function:
         p.y = y; 
         p.z = z; 
     }
-}
+  }
 
 It accepts a list of 3D points, Y rotation delta and Z rotation delta. It then transforms all of the points based on the rotation deltas.
 To display the points, use the x and z coordinates. 
